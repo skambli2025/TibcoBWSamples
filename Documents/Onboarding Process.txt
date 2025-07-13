@@ -1,0 +1,101 @@
+﻿Onboarding New Employee: 
+Welcome! 🎉
+A warm welcome to [Employee Name]! We're thrilled to have you join our team at [Your Company Name]. We're confident that your skills and enthusiasm will be a great asset, and we're excited to see the contributions you'll make.
+________________
+
+
+1. Before Your First Day
+To ensure a smooth start, here are a few things that will happen before your official start date:
+* Offer Letter & Paperwork: You should have received and signed your official offer letter. Our HR team will also send you any necessary new hire paperwork (e.g., tax forms, benefits enrollment). Please complete and return these promptly.
+* System Setup: Our IT team will set up your accounts for essential company systems (email, communication platforms, project management tools, etc.). You'll receive credentials on your first day.
+* Hardware Allocation: Your laptop and other necessary equipment will be prepared and ready for you.
+* Manager Introduction: Your direct manager, [Manager's Name], may reach out to you before your start date to say hello and provide any initial information.
+________________
+
+
+2. Your First Day: [Date]
+Your first day will focus on getting you settled and familiarized with your new environment.
+* Arrival: Please arrive at [Office Address] at [Start Time].
+* Meeting HR: You'll meet with [HR Contact Person] from HR to finalize any remaining paperwork, discuss company policies, and provide you with an employee handbook.
+* Workspace Setup: Our IT team or your manager will assist you in setting up your workstation and logging into your accounts.
+* Team Introductions: You'll be introduced to your immediate team members:
+   * [Team Member 1 Name] - [Role]
+   * [Team Member 2 Name] - [Role]
+   * ... (add more as needed)
+* Company Overview: Your manager will provide an initial overview of the company's mission, values, and our current projects.
+* First Day Checklist:
+   * Complete HR paperwork.
+   * Receive company ID/access card.
+   * Set up email and communication tools (Slack, Microsoft Teams, etc.).
+   * Connect to company Wi-Fi.
+   * Get a tour of the office facilities (restrooms, kitchen, meeting rooms).
+________________
+
+
+3. Your First Week
+The first week is about understanding your role, the team's dynamics, and key processes.
+* Team Meetings: Attend all relevant team stand-ups and meetings to understand current priorities and progress.
+* 1:1 with Manager: Schedule a dedicated 1:1 meeting with your manager to discuss:
+   * Your role and responsibilities in detail.
+   * Performance expectations and goals for your first 30, 60, and 90 days.
+   * Training plans and learning resources.
+   * Any questions or concerns you might have.
+* Codebase Overview (if applicable): If you're a developer, your manager or a designated team member will guide you through the main codebase, development environment setup, and version control system (e.g., Git).
+* Key Tools & Systems: Get familiar with our essential software tools:
+   * Project Management: [e.g., Jira, Asana, Trello]
+   * Version Control: [e.g., GitHub, GitLab, Bitbucket]
+   * Communication: [e.g., Slack, Microsoft Teams]
+   * Documentation: [e.g., Confluence, Notion]
+   * HR System: [e.g., Workday, Zoho People]
+* Initial Tasks: Your manager will assign some initial, low-stakes tasks to help you get started and familiar with our workflow.
+* Pair Programming/Shadowing: You may be paired with a senior team member for initial tasks or to shadow them to understand our development practices.
+________________
+
+
+4. Your First Month (30 Days)
+By the end of your first month, you should feel more integrated and productive.
+* Understand Core Product/Service: Gain a basic understanding of our main product(s) or service(s), including its features, target audience, and how your role contributes to its success.
+* Contribute to Projects: Begin actively contributing to projects under guidance. Don't hesitate to ask questions!
+* Feedback Session: Have a formal check-in with your manager to discuss your progress, any challenges, and areas for improvement.
+* Meet Cross-Functional Teams: Your manager may arrange introductions to key individuals in other departments (e.g., QA, Product, Marketing) you'll be collaborating with.
+* Company Culture: Start to immerse yourself in our company culture, participate in social events, and get to know your colleagues better.
+* Learning & Development: Identify any specific skills you'd like to develop or training you'd like to pursue.
+________________
+
+
+5. Key Contacts & Resources
+Here are some important contacts and resources to help you settle in:
+* Your Manager: [Manager's Name] - [Manager's Email] / [Manager's Phone Number]
+* HR Contact: [HR Contact Person] - [HR Email] / [HR Phone Number]
+* IT Support: [IT Support Contact/Email/Jira Link]
+* Internal Knowledge Base: [Link to Confluence/Wiki/Notion]
+* Company Website: [Your Company Website URL]
+* Employee Handbook: [Link to Handbook or Location]
+* Benefits Information: [Link to Benefits Portal or HR System Section]
+________________
+
+
+6. Expectations & Culture
+At [Your Company Name], we value:
+* Collaboration: We believe in working together to achieve common goals. Don't be afraid to ask for help or offer it.
+* Continuous Learning: The software industry evolves rapidly. We encourage you to continuously learn and grow.
+* Innovation: We're always looking for new and better ways to solve problems. Your ideas are welcome!
+* Open Communication: We foster an environment where everyone feels comfortable sharing their thoughts and feedback.
+* Work-Life Balance: We believe in a healthy balance between work and personal life.
+________________
+
+
+7. Next Steps
+* Review this document: Feel free to ask your manager or HR any questions you have.
+* Prepare for your first day: Get a good night's sleep and we'll see you on [Date]!
+Once again, welcome aboard, [Employee Name]! We're excited to have you as part of the team.
+
+
+
+
+Western Union (WU) Onboarding process
+
+
+1. Create iPass id for new joinee - point of contact Anil Singh
+2. Create AWS Workspace Request - Request should be raised by WU manager
+3. Raise Ipass Requests
