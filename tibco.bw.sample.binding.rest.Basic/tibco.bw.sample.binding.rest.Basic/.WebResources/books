@@ -1,7 +1,7 @@
 {
   "apiVersion" : "1.0",
   "swaggerVersion" : "1.2",
-  "basePath" : "localhost:8080",
+  "basePath" : "",
   "resourcePath" : "/books",
   "apis" : [ {
     "path" : "/books",
@@ -57,7 +57,8 @@
           "type" : "boolean"
         },
         "price" : {
-          "type" : "number"
+          "type" : "number",
+          "format" : "float"
         }
       }
     },
