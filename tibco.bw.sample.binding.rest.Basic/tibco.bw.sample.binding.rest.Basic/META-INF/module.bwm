@@ -34,4 +34,7 @@
   <sca:component xmi:id="_nfQdQEiMEeSTfvLt9h2MXQ" name="ComponentClient" compositeext:version="1.0.0.qualifier">
     <scaext:implementation xsi:type="BW:BWComponentImplementation" xmi:id="_nfQdQUiMEeSTfvLt9h2MXQ" processName="tibco.bw.sample.binding.rest.basic.Client"/>
   </sca:component>
+  <sca:component xmi:id="_T1mVQGBwEfC6gc0bX6PqGQ" name="ComponentQueueReceiver" compositeext:version="1.0.0.qualifier">
+    <scaext:implementation xsi:type="BW:BWComponentImplementation" xmi:id="_T1mVQWBwEfC6gc0bX6PqGQ" processName="tibco.bw.sample.binding.rest.basic.QueueReceiver"/>
+  </sca:component>
 </sca:composite>
